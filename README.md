@@ -1,6 +1,6 @@
 # Saddam Hussein
 #20BCE0298
-# a program that will return the nth smallest element in the array data. 
+#A program that will return the nth smallest element in the array data. 
 
 #include <algorithm>
 #include <iostream>
